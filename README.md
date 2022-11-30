@@ -1,4 +1,4 @@
-## MgmOvirtUsers
+## Gerenciamento de usuários no Ovirt
 Automatização de gerência de usuários no Ovirt.
 
 ## Apresentação
